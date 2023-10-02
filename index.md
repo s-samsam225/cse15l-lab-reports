@@ -1,21 +1,31 @@
-*Hello World *
+*Hello World*
+
 **Hello World**
-#Hello World
-##Hello World
-[Link](https://google.com)
+
+# Hello World
+
+## Hello World
+
+[Link to Google](https://www.google.com/)
+
 >Hello World
+
 Hello World:
 ---
+
 `Hello World` with backticks
-![Image](Capture.png)
 
-1. One
-2. Two
-3. Three
+![Image](Capture.PNG)
 
-* List
-* List
-* List
+#This is a list of animals
+1. Cat
+2. Dog
+3. Bat
+
+#This is a list of colors
+* Red
+* Purple
+* Yellow
 
 ```
 #  Block of Code
