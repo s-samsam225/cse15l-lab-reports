@@ -7,7 +7,7 @@
 Hello World:
 ---
 `Hello World` with backticks
-![Image](http://url/a.png)
+![Image](Capture.png)
 
 1. One
 2. Two
