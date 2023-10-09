@@ -26,8 +26,15 @@
 
 # Using command ls
 *Example One:*
+![Image](ls.png)
+1. The working directory when the ls command was run is /home.
+2. We got the output "lecture1" because this is in the content of the /home directory
+   and ls lists the working directory's files and directories.
+3. This was not an error because the ls command gave the correct output when we ran
+   it in the terminal.
 
-*Example Two:* 
+*Example Two:*
+
 
 
 *Example Three:*
