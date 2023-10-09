@@ -34,10 +34,22 @@
    it in the terminal.
 
 *Example Two:*
-
-
+![Image](lsWithArg.png)
+1. The working directory when this command was run in the terminal
+   was /home/lecture1. 
+2. We got this output because when we put ls into the terminal when the working directory
+   was /lecture1 it outputs all the files and directories within this directory. So, this is
+   why it outputs "Hello.class  Hello.java  messages  README" into the terminal.
+3. This was not an error because the ls command effectively fulfilled its purpose and outputted
+   the content of the working directory.
 
 *Example Three:*
+![Image](lsWithFile.png)
+1. The working directory when this command was run was /home.
+2. We got this output because the correct argument was not inputed into the terminal
+   along with ls. 
+3. This was not an error because the ls command can only take in a directory to output its
+   contents. 
 
 
 # Using command cat
