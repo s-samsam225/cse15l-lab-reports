@@ -5,7 +5,7 @@
 ![Image](cd.png)
 1. The working directory when this command was run was /home. 
 2. We got this output because the command was able to run in the terminal and there were no errors.
-   However, nothing was changed by us putting in the cd command.
+   However, the directory was not changed by us putting in the cd command wwithout an arg.
 3. This output is not an error because cd changes the directory. The only reason nothing happened
    was because there was no argument.  
 
