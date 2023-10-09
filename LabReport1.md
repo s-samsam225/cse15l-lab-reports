@@ -65,12 +65,14 @@
 *Example Two:* 
 ![Image](catWithArg.png)
 1. The working directory when we ran this command was /home.
-2. We got this output because it 
-3. fyu
+2. We got this output because when we input "cat lecture1" into the terminal the cat
+   command reads the the input and will output the file's content.
+3. This was not an error because the cat command was able to execute correctly based on
+   our input into the terminal.
 
 *Example Three:*
 ![Image](catFile.png)
 1. The working directory when we ran this command was /home.
-2. ub
-3. d
+2. We got this output 
+3. This was not an error because the cat command can only read 
 
