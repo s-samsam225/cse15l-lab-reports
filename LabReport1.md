@@ -45,7 +45,7 @@
 
 *Example Three:*
 ![Image](lsWithFile.png)
-1. The working directory when this command was run was /home.
+1. The working directory when this command was run was /home/lecture1.
 2. We got this output because the correct argument was not inputed into the terminal
    along with ls. 
 3. This was not an error because the ls command can only take in a directory to output its
@@ -54,9 +54,23 @@
 
 # Using command cat
 *Example One:*
+![Image](cat.png)
+1. The working directory when we ran this command was /home.
+2. When we ran the cat command in the terminal it kept infinitly running because it did
+   not receive any input. So we got the output of nothing because the terminal was still 
+   waiting for an input. To stop this I used the ctrl+c command to force a stop.
+3. This was not an error because this is what happens when we enter cat into the terminal
+   without any arguments. 
 
 *Example Two:* 
-
+![Image](catWithArg.png)
+1. The working directory when we ran this command was /home.
+2. We got this output because it 
+3. fyu
 
 *Example Three:*
+![Image](catFile.png)
+1. The working directory when we ran this command was /home.
+2. ub
+3. d
 
