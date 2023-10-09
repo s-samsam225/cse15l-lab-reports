@@ -72,7 +72,9 @@
 
 *Example Three:*
 ![Image](catFile.png)
-1. The working directory when we ran this command was /home.
-2. We got this output 
-3. This was not an error because the cat command can only read 
+1. The working directory when we ran this command was /home/lecture1/messages.
+2. We got this output because we inputed the file en-us.txt into the terminal and
+   the cat command outputed it's contents which were "Hello world!"
+3. This was not an error because the cat command executed properly and displayed what it was
+   meant to. 
 
