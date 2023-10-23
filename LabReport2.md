@@ -27,10 +27,15 @@
 
 
 # Part 2
-
+![Image](LabReport2SS3.png)
 
 
 # Part 3
+1. Something new that I learned is how to build a server and how to log in
+   to a private server. I think these are very valuable skills to learn
+   as for some internships they have you work on remote private servers.
+   So I am glad I was able to learn these skills and will implement them
+   in the future. 
 
 
 
