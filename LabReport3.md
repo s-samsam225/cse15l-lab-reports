@@ -52,3 +52,8 @@
 ### Example 8
 
 
+### Sources
+1. To find the different command line options I used the article called "Grep Command in Linux – Usage, Options, and Syntax Examples"
+   by freeCodeCamp.
+
+
