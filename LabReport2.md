@@ -23,7 +23,8 @@
    argument to handleRequest. The URL for this request is
    add-message?s=How%20are%20you. Based on my implementation
    of the decoder it is able to convert the %20 into spaces.
-3. The message StringBuilder contains "1. Hello" from the previous
+   So adding the UTF-8 will decode the query string. 
+4. The message StringBuilder contains "1. Hello" from the previous
    request and after processing this request, it contains 
         1. Hello
         2. How are you
@@ -32,14 +33,17 @@
 
 
 ## Part 2
-![Image](LabReport2SS3.png)
 
 ### Private Key Path
-
+![Image](LabReport2SS3.png)
+2. The path to the private key is stored within the file directory of our 
+ieng login. So when we used ls it will display all the files in this 
+directory. 
 
 ### Public Key path
 ![Image](publicKey.png)
-
+1. This image shows that my public key is stored in /home/.ssh/id_ed25519.pub.
+Doing ls to this simply displayed the file name. 
 
 ## Part 3
 1. Something new that I learned is how to build a server and how to log in
