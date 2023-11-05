@@ -1,6 +1,11 @@
-## Lab Report 2 - Servers and SSH Keys (Week 3)
+# Lab Report 2 - Servers and SSH Keys (Week 3)
 
-# Part 1
+## Part 1
+### Code for webserver
+![Image](URIHandler.png)
+![Image](StringServer.png)
+
+### Example 1
 ![Image](LabReport2SS1.png)
 1. The handleRequest method in the Handler class was called.
 2. The URI object representing the URL path is passed as an argument
@@ -11,7 +16,7 @@
    message added. Then messageCount is also changed as it was 0 initially
    but got incremented to 1 because this is the first message.
 
-
+### Example 2
 ![Image](LabReport2SS2.png)
 1. The handleRequest method in the Handler class was called.
 2. The URI object representing the URL path is passed as an
@@ -26,11 +31,17 @@
   incremented to 2 for the new message.
 
 
-# Part 2
+## Part 2
 ![Image](LabReport2SS3.png)
 
+### Private Key Path
 
-# Part 3
+
+### Public Key path
+![Image](publicKey.png)
+
+
+## Part 3
 1. Something new that I learned is how to build a server and how to log in
    to a private server. I think these are very valuable skills to learn
    as for some internships they have you work on remote private servers.
