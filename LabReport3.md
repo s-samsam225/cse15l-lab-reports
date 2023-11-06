@@ -108,15 +108,20 @@ in the code.
 
 ### Example 6
 ![Image](grepVD.png)
+
 The -n command with a directory will not allow the command to work 
 properly and will simply output that it is a directory.
 
 ### Example 7
 ![Image](grepW.png)
 
+When used with a file, the -w command will find the where the specific
+string is located in the file. This is why it outputed "Couldn't *find*
+query parameter" when we asked it to find "find".
 
 ### Example 8
 ![Image](grepWD.png)
+
 The -w command with a directory will not allow the command to work 
 properly. 
 
