@@ -71,28 +71,29 @@ stored in the temporary array and this resolved the issue.
 ## Part 2
 
 ### Example 1
-
+![Image](grepCF.png)
 
 ### Example 2
-
+![Image](grepCD.png)
 
 ### Example 3
-
+![Image](grepNF.png)
 
 ### Example 4
-
+![Image](grepND.png)
 
 ### Example 5
-
+![Image](grepVF1.png)
+![Image](grepVF2.png)
 
 ### Example 6
-
+![Image](grepVD.png)
 
 ### Example 7
-
+![Image](grepWF.png)
 
 ### Example 8
-
+![Image](grepWD.png)
 
 ### Sources
 1. To find the different command line options I used the article called "Grep Command in Linux – Usage, Options, and Syntax Examples"
