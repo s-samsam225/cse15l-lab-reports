@@ -36,12 +36,14 @@
 
 ### Private Key Path
 ![Image](LabReport2SS3.png)
+
 2. The path to the private key is stored within the file directory of our 
 ieng login. So when we used ls it will display all the files in this 
 directory. 
 
 ### Public Key path
 ![Image](publicKey.png)
+
 1. This image shows that my public key is stored in /home/.ssh/id_ed25519.pub.
 Doing ls to this simply displayed the file name. 
 
