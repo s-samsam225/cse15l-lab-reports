@@ -109,7 +109,7 @@ in the code.
 ### Example 6
 ![Image](grepVD.png)
 
-The -n command with a directory will not allow the command to work 
+The -v command with a directory will not allow the command to work 
 properly and will simply output that it is a directory.
 
 ### Example 7
