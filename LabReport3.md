@@ -73,30 +73,54 @@ stored in the temporary array and this resolved the issue.
 ### Example 1
 ![Image](grepCF.png)
 
+The -c command with a file will count the number of occurances of the 
+string in the file. This command could be very useful for counting the 
+number of error messages or how many times a certain command is called.
+
 ### Example 2
 ![Image](grepCD.png)
+
+The -c command with a directory will not allow the command to work 
+properly. 
 
 ### Example 3
 ![Image](grepNF.png)
 
+The -n command with a file will find the associated line number. 
+This is useful for finding something you need to delete from the
+file. 
+
 ### Example 4
 ![Image](grepND.png)
 
+The -n command with a directory will not allow the command to work 
+properly. 
+
 ### Example 5
 ![Image](grepVF1.png)
+
 ![Image](grepVF2.png)
+
+The -v command will output the lines where the string will not appear.
+This is useful for checking where certain commands or files are used
+in the code. 
+
 
 ### Example 6
 ![Image](grepVD.png)
+The -n command with a directory will not allow the command to work 
+properly and will simply output that it is a directory.
 
 ### Example 7
-![Image](grepWF.png)
+![Image](grepW.png)
+
 
 ### Example 8
 ![Image](grepWD.png)
+The -w command with a directory will not allow the command to work 
+properly. 
 
 ### Sources
-1. To find the different command line options I used the article called "Grep Command in Linux – Usage, Options, and Syntax Examples"
-   by freeCodeCamp.
+1. To find the different command line options I used the article called "Grep Command in Linux – Usage, Options, and Syntax Examples" by freeCodeCamp.
 
 
