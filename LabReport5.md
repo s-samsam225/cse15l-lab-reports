@@ -7,7 +7,8 @@ Hi everyone,
 
 I'm working on a Java program that interacts with a bash script. The script dynamically generates a command, and the Java program executes it. However, I'm encountering some unexpected behavior. I've attached a screenshot below:
 
-Screenshot: ![Image](lab5ss5)
+Screenshot:
+![Image](lab5ss5)
 
 Here's a snippet of my Java code:
 
@@ -54,7 +55,9 @@ Looking forward to your response!
 
 3. Student Response:
 
-Screenshot: ![Image](lab5ss6)
+Screenshot: 
+![Image](lab5ss6)
+
 I followed your suggestion and ran the bash script directly. I've attached a screenshot of the output. It looks like the dynamic command is indeed "command2," and that's causing the issue. What changes should I make to fix this?
 
 
