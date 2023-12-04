@@ -19,5 +19,5 @@
    
 7. Now we use ```bash test.sh``` again to rerun the script with the changed files. 
  ![Image](lab4ss7.png)
-8. To commit the file we use ```git add ListExamples.java```. This will add the java file to the files waiting to be comitted. ```git commit``` <enter> will then commit all the files in the queue and takes us to the commit page to write the commit message. We can write any commit message and press enter to save and exit the file.
+8. To commit the file we use ```git add ListExamples.java```. This will add the java file to the files waiting to be comitted. ```git commit``` <enter> will then commit all the files in the queue and takes us to the commit page to write the commit message. We can write any commit message and press <enter> to save and exit the file. I used "Commit changed file"
      ![Image](lab4ss8.png)
